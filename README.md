@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align="right" src="https://count.getloli.com/get/@:1?theme=gelbooru-h" />
+
 <!--
 **sephirotheca/sephirotheca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
